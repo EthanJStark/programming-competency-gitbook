@@ -6,6 +6,7 @@
 - [ ] Detailed invoice of hours
 - [ ] Gitbook
 - [ ] Mindmap 
+- [ ] 20 interesting questions about programming
 - [ ] New commits on four previous projects 
 
 ### Gitbook 
