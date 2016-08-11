@@ -2,6 +2,7 @@
 
 ### Deliverables
 - [ ] Each group member will give a TED Talk on a project topic
+  - [ ] [Mihai](http://google.com)
 - [ ] Define a three-level code quality standard
 - [ ] Detailed invoice of hours
 - [ ] Gitbook
