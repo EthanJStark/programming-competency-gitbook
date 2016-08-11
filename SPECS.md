@@ -8,7 +8,7 @@
   - [ ] [Mihai on Coding](https://bluemihai.gitbooks.io/mihai-on-coding/content/)
   - [ ] [Ethan: Learning the Landscape of Web Development](https://ethanjstark.gitbooks.io/landscape-of-web/content)
   - [ ] Harman
-- [ ] Mindmap 
+- [ ] [Mindmap](https://www.mindmeister.com/739674955/dev-competencies)
 - [ ] 20 interesting questions about programming
 - [ ] New commits on four previous projects 
 
