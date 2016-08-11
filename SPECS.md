@@ -2,19 +2,22 @@
 
 ### Deliverables
 - [ ] Each group member will give a TED Talk on a project topic
-- [ ] Define a three-level code quality standard
-- [ ] Detailed invoice of hours
+- [x] Define a three-level code quality standard [SEE BELOW IN THIS FILE]
+- [x] [Detailed invoice](https://docs.google.com/spreadsheets/d/1GxSXhguI27apeWIzUFp_2f_T2xOPUWv5h-ry6RQvvoU/edit#gid=0) of hours
 - [ ] Gitbook
   - [ ] [Mihai on Coding](https://bluemihai.gitbooks.io/mihai-on-coding/content/)
   - [ ] [Ethan: Learning the Landscape of Web Development](https://ethanjstark.gitbooks.io/landscape-of-web/content)
   - [ ] Harman
-- [ ] [Mindmap](https://www.mindmeister.com/739674955/dev-competencies)
+- [ ] Mindmaps
+  - [x] [Mihai](https://www.mindmeister.com/739674955/dev-competencies)
+  - [ ] Ethan
+  - [ ] Harman
 - [ ] 20 interesting questions about programming
 - [ ] New commits on four previous projects 
 
 ### Gitbook 
 - [ ] Each group member has their own "Learning To Code" gitbook
-- [ ] Those gitbooks may share some structure, but the content is different to reflect individual thought
+- [x] Those gitbooks may share some structure, but the content is different to reflect individual thought
 - [ ] Each gitbook includes some discussion/review of the resources Shereef posted [see below]
 - [ ] Each gitbook includes your own mindmap of programming competencies
 - [ ] Each gitbook includes a review of your last four projects (at least four) and which of those 
