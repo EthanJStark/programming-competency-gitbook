@@ -19,7 +19,7 @@
 ### Gitbook 
 - [ ] Each group member has their own "Learning To Code" gitbook
 - [x] Those gitbooks may share some structure, but the content is different to reflect individual thought
-- [ ] Each gitbook includes some discussion/review of the resources Shereef posted [see below]
+- [ ] Each gitbook includes some [discussion/review](https://ethanjstark.gitbooks.io/landscape-of-web/content/roadmaps.html) of the resources Shereef posted
 - [x] Each gitbook includes your own mindmap of programming competencies
 - [x] Each gitbook includes a review of your last four projects (at least four) and which of those 
 competencies you learned — [Competency Historical Heat Map](https://docs.google.com/spreadsheets/d/1bzi_8tOLrB18tIr21_7JSo9g5-x8x4KiticBPKWFVr0/edit#gid=0)
