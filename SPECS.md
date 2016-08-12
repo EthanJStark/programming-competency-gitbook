@@ -34,7 +34,7 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 |       | 10      | Functional   | Project runs in localhost and, if required, in production [on Heroku]             |
 |       | 5       | Git Logged   | Readable and clean with clear, complete, professional commit messages             |
 |       | 10      | Linted       | It gets no unexpected errors from [StandardJS, eslint] linter                     |
-|       | 10      | Passing Grade| Gets at least a [3.0 GPA] on CodeClimate                                          |
+|       | 10      | Reviewed     | Gets at least a [3.0 GPA] on CodeClimate                                          |
 |       | 20      | Tested       | All specs passing; at least [70%] test coverage as reported by CodeClimate        |
 |       | 10      | Clear Names  | For functions, variables, files, CSS classes and ids                              |
 |       | 10      | Abstraction  | Small, single-responsibility functions leveraged for encapsulation & reusability  |
