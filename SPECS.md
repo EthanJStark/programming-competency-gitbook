@@ -36,7 +36,7 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 
 <hr>
 
-## Code Quality Specs [To be included in new projects and edited on Monday morning]
+## Code Quality Specs [To be edited by team]
 
 - [ ] User-Friendly - Pages load fast, UX design principles followed, styled enough to not offend the eye|
 - [ ] Tested - All specs passing; at least [70%] test coverage as reported by CodeClimate
