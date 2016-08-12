@@ -93,5 +93,5 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 |       | 10      | Abstracted   | Small, single-responsibility functions leveraged for encapsulation & reusability.  |
 |       | 5       | Structured   | Directory structure allows new developers to quickly find and add files.           |
 |       | 10      | !Commented| Unless truly necessary. No dead code, console.logs, fits/xits.                     |
-|       | 10      | UX Designed  | If a web app with actual users: design principles followed, good page load speed.  |
+|       | 10      | User-Friendly  | Pages load fast, UX design principles followed, styled enough to not offend the eye|
 |       |<b>100</b>|              | <b>TOTALS</b>                                                                     |
