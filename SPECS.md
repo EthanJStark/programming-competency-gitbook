@@ -26,6 +26,10 @@ competencies you learned — [Competency Historical Heat Map](https://docs.googl
 
 Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark at 12:15PM Monday August 8th
 
++### Competencies Developed
++* GitBook publishing
++* Meta-learning
+
 <hr>
 
 ## Code Quality Specs [To be included in new projects and edited on Monday morning]
@@ -56,7 +60,7 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 |       | 10      | Clearly Named| Functions, variables, files, CSS classes and ids.                                  |
 |       | 10      | Abstracted   | Small, single-responsibility functions leveraged for encapsulation & reusability.  |
 |       | 5       | Structured   | Directory structure allows new developers to quickly find and add files.           |
-|       | 10      | Not Commented| Unless truly necessary. No dead code, console.logs, fits/xits.                     |
+|       | 10      | !Commented   | Unless truly necessary. No dead code, console.logs, fits/xits.                     |
 |       |<b>100</b>|              | <b>TOTALS</b>                                                                     |
 
 
@@ -73,7 +77,7 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 |       | 10      | Clearly Named| Functions, variables, files, CSS classes and ids.                                  |
 |       | 10      | Abstracted   | Small, single-responsibility functions leveraged for encapsulation & reusability.  |
 |       | 5       | Structured   | Directory structure allows new developers to quickly find and add files.           |
-|       | 5       | Not Commented| Unless truly necessary. No dead code, console.logs, fits/xits.                     |
+|       | 5       | !Commented| Unless truly necessary. No dead code, console.logs, fits/xits.                     |
 |       | 10      | User-Friendly| Pages load fast, UX design principles followed, styled enough to not offend the eye|
 |       |<b>100</b>|             | <b>TOTALS</b>                                                                      |
 
@@ -87,6 +91,6 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 |       | 10      | Clearly Named| Functions, variables, files, CSS classes and ids.                                  |
 |       | 10      | Abstracted   | Small, single-responsibility functions leveraged for encapsulation & reusability.  |
 |       | 5       | Structured   | Directory structure allows new developers to quickly find and add files.           |
-|       | 10      | Not Commented| Unless truly necessary. No dead code, console.logs, fits/xits.                     |
+|       | 10      | !Commented| Unless truly necessary. No dead code, console.logs, fits/xits.                     |
 |       | 10      | UX Designed  | If a web app with actual users: design principles followed, good page load speed.  |
 |       |<b>100</b>|              | <b>TOTALS</b>                                                                     |
