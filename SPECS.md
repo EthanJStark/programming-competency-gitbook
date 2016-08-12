@@ -2,6 +2,7 @@
 
 ### Deliverables
 - [ ] Each group member will give a TED Talk on a project topic
+  - [ ] Mihai: Spiking
 - [x] Define a three-level code quality standard [SEE BELOW IN THIS FILE]
 - [x] [Detailed invoice](https://docs.google.com/spreadsheets/d/1GxSXhguI27apeWIzUFp_2f_T2xOPUWv5h-ry6RQvvoU/edit#gid=0) of hours
 - [ ] Gitbook
@@ -27,18 +28,16 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 
 ### Code Quality Rubric
 
-| Score | Out of  | Rubric Item                                                                       |
-|-------|:-------:|-----------------------------------------------------------------------------------|
-|       | 10      | CONTRIBUTING.md file makes it easy for new dev to get it running on localhost     |
-|       | 5       | It runs                                                                           |
-|       | 5       | It runs in production [on Heroku]                                                 |
-|       | 3       | Good, professional commit messages and git trees                                  |
-|       | 10      | Gets at least a [3.0 GPA] on CodeClimate                                          |
-|       | 20      | Has at least [70%] test coverage as reported by CodeClimate, no specs fail        |
-|       | 15      | It gets no errors from [StandardJS] linter                                        |
-|       | 10      | Files, functions, variables, CSS classes/ids have clear names                     |
-|       | 10      | No giant functions                                                                |
-|       | 5       | Good file organization - new developers can quickly find and create files         |
-|       | 5       | Comments only when truly necessary, such as pointing out a temporary hack)        |
-|-------|:-------:|-----------------------------------------------------------------------------------|
-|       | 100     | TOTALS                                                                            |
+| Score | Out of  | Rubric Item  | Description                                                                       |
+|-------|:-------:|:------------:|-----------------------------------------------------------------------------------|
+|       | 10      | Documented   | CONTRIBUTING.md file makes it easy for new dev to get it running on localhost     |
+|       | 10      | Functional   | It runs in localhost and, if committed, in production [on Heroku]                 |
+|       | 5       | Git Logged   | Readable and clean with clear, complete, professional commit messages             |
+|       | 10      | Linted       | It gets no unexpected errors from [StandardJS, eslint] linter                     |
+|       | 10      | Passing Grade| Gets at least a [3.0 GPA] on CodeClimate                                          |
+|       | 20      | Tested       | All specs passing; at least [70%] test coverage as reported by CodeClimate        |
+|       | 10      | Clear Names  | For functions, variables, files, CSS classes and ids                              |
+|       | 15      | Abstraction  | Small, single-responsibility functions leveraged for encapsulation & reusability  |
+|       | 5       | Dir Structure| So that new developers can quickly find and create files                          |
+|       | 5       | !Commented   | Comments only included when truly necessary, such as pointing out a temporary hack|
+|       | 100     |              | TOTALS                                                                            |
