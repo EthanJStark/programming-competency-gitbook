@@ -1,8 +1,10 @@
 ## Specifications
 
 ### Deliverables
-- [ ] Each group member will give a TED Talk on a project topic
-  - [ ] Mihai: Spiking
+- [x] Each group member will give a TED Talk on a project topic
+  - [x] Mihai: Spiking
+  - [x] Ethan: Customizing Your Development Environment
+  - [x] Harman: C++
 - [x] Define a three-level code quality standard [SEE BELOW IN THIS FILE]
 - [x] [Detailed invoice](https://docs.google.com/spreadsheets/d/1GxSXhguI27apeWIzUFp_2f_T2xOPUWv5h-ry6RQvvoU/edit#gid=0) of hours
 - [ ] Gitbook
@@ -14,7 +16,7 @@
   - [ ] Ethan
   - [ ] Harman
 - [ ] 20 interesting questions about programming
-- [ ] New commits on four previous projects 
+- [x] New commits on four previous projects 
 
 ### Gitbook 
 - [ ] Each group member has their own "Learning To Code" gitbook
@@ -29,7 +31,8 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 ### Competencies Developed
 - [x] GitBook publishing
 - [x] Meta-learning
-- [ ] Generating a code quality rubric
+- [x] Generating a code quality rubric
+- [x] Giving and receiving feedback
 
 <hr>
 
