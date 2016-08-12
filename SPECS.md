@@ -57,7 +57,7 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 |       | 10      | Linted       | It gets no unexpected errors from [StandardJS, eslint] linter.                     |
 |       | 10      | Reviewed/Fast| Passes [3.0 GPA] CodeClimate or peer review. Optimal O(n) complexity.              |
 |       | 20      | Tested       | All specs passing; at least [70%] test coverage as reported by CodeClimate.        |
-|       | 10      | Clearly Named| Functions, variables, files, CSS classes and ids.                                  |
+|       | 10      | Well-Named| Functions, variables, files, CSS classes and ids.                                  |
 |       | 10      | Abstracted   | Small, single-responsibility functions leveraged for encapsulation & reusability.  |
 |       | 5       | Structured   | Directory structure allows new developers to quickly find and add files.           |
 |       | 10      | !Commented   | Unless truly necessary. No dead code, console.logs, fits/xits.                     |
@@ -74,7 +74,7 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 |       | 5       | Linted       | It gets no unexpected errors from [StandardJS, eslint] linter.                     |
 |       | 10      | Reviewed/Fast| Passes [3.0 GPA] CodeClimate or peer review. Optimal O(n) complexity.              |
 |       | 20      | Tested       | All specs passing; at least [70%] test coverage as reported by CodeClimate.        |
-|       | 10      | Clearly Named| Functions, variables, files, CSS classes and ids.                                  |
+|       | 10      | Well-Named| Functions, variables, files, CSS classes and ids.                                  |
 |       | 10      | Abstracted   | Small, single-responsibility functions leveraged for encapsulation & reusability.  |
 |       | 5       | Structured   | Directory structure allows new developers to quickly find and add files.           |
 |       | 5       | !Commented| Unless truly necessary. No dead code, console.logs, fits/xits.                     |
@@ -88,7 +88,7 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 |-------|:-------:|:------------:|------------------------------------------------------------------------------------|
 |       | 50      | Functional   | Project runs in localhost and, if required, in production [on Heroku].             |
 |       | 5       | Git Logged   | Readable and clean with clear, complete, professional commit messages.             |
-|       | 10      | Clearly Named| Functions, variables, files, CSS classes and ids.                                  |
+|       | 10      | Well-Named| Functions, variables, files, CSS classes and ids.                                  |
 |       | 10      | Abstracted   | Small, single-responsibility functions leveraged for encapsulation & reusability.  |
 |       | 5       | Structured   | Directory structure allows new developers to quickly find and add files.           |
 |       | 10      | !Commented| Unless truly necessary. No dead code, console.logs, fits/xits.                     |
