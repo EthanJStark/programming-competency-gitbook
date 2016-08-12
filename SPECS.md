@@ -30,8 +30,8 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 
 | Score | Max     | Rubric Item  | Description                                                                       |
 |-------|:-------:|:------------:|-----------------------------------------------------------------------------------|
-|       | 10      | Documented   | CONTRIBUTING.md file makes it easy for new dev to get it running on localhost     |
-|       | 10      | Functional   | It runs in localhost and, if required, in production [on Heroku]                  |
+|       | 10      | Documented   | Docs like CONTRIBUTING.md, so that other devs can quickly start coding            |
+|       | 10      | Functional   | Project runs in localhost and, if required, in production [on Heroku]             |
 |       | 5       | Git Logged   | Readable and clean with clear, complete, professional commit messages             |
 |       | 10      | Linted       | It gets no unexpected errors from [StandardJS, eslint] linter                     |
 |       | 10      | Passing Grade| Gets at least a [3.0 GPA] on CodeClimate                                          |
@@ -40,4 +40,4 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 |       | 10      | Abstraction  | Small, single-responsibility functions leveraged for encapsulation & reusability  |
 |       | 5       | Dir Structure| So that new developers can quickly find and create files                          |
 |       | 10      | Comments     | Only included when truly necessary. No dead code, console.logs, fits/xits         |
-|       | 100     |              | TOTALS                                                                            |
+|       |<b>100</b>|              | <b>TOTALS</b                                                                     |
