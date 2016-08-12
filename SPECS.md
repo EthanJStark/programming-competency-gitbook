@@ -11,7 +11,7 @@
   - [ ] Harman
 - [ ] Mindmaps
   - [x] [Mihai](https://www.mindmeister.com/739674955/dev-competencies)
-  - [ ] Ethan
+  - [x] [Ethan](https://www.mindmeister.com/739680916/competencies)
   - [ ] Harman
 - [ ] 20 interesting questions about programming
 - [ ] New commits on four previous projects 
@@ -19,7 +19,7 @@
 ### Gitbook 
 - [ ] Each group member has their own "Learning To Code" gitbook
 - [x] Those gitbooks may share some structure, but the content is different to reflect individual thought
-- [ ] Each gitbook includes some discussion/review of the resources Shereef posted [see below]
+- [ ] Each gitbook includes some discussion/review of the resources Shereef posted
 - [x] Each gitbook includes your own mindmap of programming competencies
 - [x] Each gitbook includes a review of your last four projects (at least four) and which of those 
 competencies you learned — [Competency Historical Heat Map](https://docs.google.com/spreadsheets/d/1bzi_8tOLrB18tIr21_7JSo9g5-x8x4KiticBPKWFVr0/edit#gid=0)
@@ -77,3 +77,7 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 |       | 10      | Not Commented| Unless truly necessary. No dead code, console.logs, fits/xits.                     |
 |       | ??      | UX Designed  | If a web app with actual users: design principles followed, good page load speed.  |
 |       |<b>100</b>|              | <b>TOTALS</b>                                                                     |
+
+### Competencies Developed
+* GitBook publishing
+* Meta-learning
