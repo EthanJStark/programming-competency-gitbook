@@ -9,13 +9,13 @@
 - [x] [Detailed invoice](https://docs.google.com/spreadsheets/d/1GxSXhguI27apeWIzUFp_2f_T2xOPUWv5h-ry6RQvvoU/edit#gid=0) of hours
 - [ ] Gitbook
   - [x] [Mihai on Coding](https://bluemihai.gitbooks.io/mihai-on-coding/content/)
-  - [ ] [Ethan: Learning the Landscape of Web Development](https://ethanjstark.gitbooks.io/landscape-of-web/content)
+  - [x] [Ethan: Learning the Landscape of Web Development](https://ethanjstark.gitbooks.io/landscape-of-web/content)
   - [ ] Harman
 - [ ] Mindmaps
   - [x] [Mihai](https://www.mindmeister.com/739674955/dev-competencies)
-  - [ ] Ethan
+  - [x] [Ethan](https://www.mindmeister.com/739680916/competencies)
   - [ ] Harman
-- [ ] 20 interesting questions about programming
+- [x] [20 interesting questions about programming](programming-competency-gitbook/questions.md)
 - [x] New commits on four previous projects 
 
 ### Gitbook 
