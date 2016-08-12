@@ -26,9 +26,10 @@ competencies you learned — [Competency Historical Heat Map](https://docs.googl
 
 Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark at 12:15PM Monday August 8th
 
-+### Competencies Developed
-+* GitBook publishing
-+* Meta-learning
+### Competencies Developed
+- [x] GitBook publishing
+- [x] Meta-learning
+- [ ] Generating a code quality rubric
 
 <hr>
 
