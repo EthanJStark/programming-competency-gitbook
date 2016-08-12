@@ -40,4 +40,4 @@ Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark 
 |       | 10      | Abstraction  | Small, single-responsibility functions leveraged for encapsulation & reusability  |
 |       | 5       | Dir Structure| So that new developers can quickly find and create files                          |
 |       | 10      | Comments     | Only included when truly necessary. No dead code, console.logs, fits/xits         |
-|       |<b>100</b>|              | <b>TOTALS</b                                                                     |
+|       |<b>100</b>|              | <b>TOTALS</b>                                                                    |
