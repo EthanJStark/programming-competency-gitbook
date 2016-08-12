@@ -15,7 +15,7 @@
   - [x] [Mihai](https://www.mindmeister.com/739674955/dev-competencies)
   - [x] [Ethan](https://www.mindmeister.com/739680916/competencies)
   - [ ] Harman
-- [x] [20 interesting questions about programming](programming-competency-gitbook/questions.md)
+- [x] [20 interesting questions about programming](https://github.com/EthanJStark/programming-competency-gitbook/blob/master/questions.md)
 - [x] New commits on four previous projects 
 
 ### Gitbook 
