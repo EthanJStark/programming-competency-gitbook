@@ -26,18 +26,54 @@ competencies you learned — [Competency Historical Heat Map](https://docs.googl
 
 Contract agreed to and signed by Harman Singh, Mihai Banulescu, and Ethan Stark at 12:15PM Monday August 8th
 
-### Code Quality Rubric
+### Code Quality Rubric [Libraries]
 
-| Score | Max     | Rubric Item  | Description                                                                       |
-|-------|:-------:|:------------:|-----------------------------------------------------------------------------------|
-|       | 10      | Documented   | Docs like CONTRIBUTING.md, so that other devs can quickly start coding            |
-|       | 10      | Functional   | Project runs in localhost and, if required, in production [on Heroku]             |
-|       | 5       | Git Logged   | Readable and clean with clear, complete, professional commit messages             |
-|       | 10      | Linted       | It gets no unexpected errors from [StandardJS, eslint] linter                     |
-|       | 10      | Reviewed     | Gets at least a [3.0 GPA] on CodeClimate                                          |
-|       | 20      | Tested       | All specs passing; at least [70%] test coverage as reported by CodeClimate        |
-|       | 10      | Clear Names  | For functions, variables, files, CSS classes and ids                              |
-|       | 10      | Abstraction  | Small, single-responsibility functions leveraged for encapsulation & reusability  |
-|       | 5       | Dir Structure| So that new developers can quickly find and create files                          |
-|       | 10      | Comments     | Only included when truly necessary. No dead code, console.logs, fits/xits         |
-|       |<b>100</b>|              | <b>TOTALS</b>                                                                    |
+| Score | Max     | Rubric Item  | Description                                                                        |
+|-------|:-------:|:------------:|------------------------------------------------------------------------------------|
+|       | 10      | Documented   | In files like CONTRIBUTING.md, so that other devs can quickly start coding.        |
+|       | 10      | Functional   | Project runs in localhost and, if required, in production [on Heroku].             |
+|       | 5       | Git Logged   | Readable and clean with clear, complete, professional commit messages.             |
+|       | 10      | Linted       | It gets no unexpected errors from [StandardJS, eslint] linter.                     |
+|       | 10      | Reviewed/Fast| Passes [3.0 GPA] CodeClimate or peer review. Optimal O(n) complexity.              |
+|       | 20      | Tested       | All specs passing; at least [70%] test coverage as reported by CodeClimate.        |
+|       | 10      | Clearly Named| Functions, variables, files, CSS classes and ids.                                  |
+|       | 10      | Abstracted   | Small, single-responsibility functions leveraged for encapsulation & reusability.  |
+|       | 5       | Structured   | Directory structure allows new developers to quickly find and add files.           |
+|       | 10      | Not Commented| Unless truly necessary. No dead code, console.logs, fits/xits.                     |
+|       |<b>100</b>|              | <b>TOTALS</b>                                                                     |
+
+
+### Code Quality Rubric [Web Apps]
+
+| Score | Max     | Rubric Item  | Description                                                                        |
+|-------|:-------:|:------------:|------------------------------------------------------------------------------------|
+|       | 10      | Documented   | In files like CONTRIBUTING.md, so that other devs can quickly start coding.        |
+|       | 10      | Functional   | Project runs in localhost and, if required, in production [on Heroku].             |
+|       | 5       | Git Logged   | Readable and clean with clear, complete, professional commit messages.             |
+|       | 5       | Linted       | It gets no unexpected errors from [StandardJS, eslint] linter.                     |
+|       | 10      | Reviewed/Fast| Passes [3.0 GPA] CodeClimate or peer review. Optimal O(n) complexity.              |
+|       | 20      | Tested       | All specs passing; at least [70%] test coverage as reported by CodeClimate.        |
+|       | 10      | Clearly Named| Functions, variables, files, CSS classes and ids.                                  |
+|       | 10      | Abstracted   | Small, single-responsibility functions leveraged for encapsulation & reusability.  |
+|       | 5       | Structured   | Directory structure allows new developers to quickly find and add files.           |
+|       | 5       | Not Commented| Unless truly necessary. No dead code, console.logs, fits/xits.                     |
+|       | 10      | User-Friendly| Pages load fast, UX design principles followed, styled enough to not offend the eye|
+|       |<b>100</b>|             | <b>TOTALS</b>                                                                      |
+
+
+### Code Quality Rubric [Bare Minimum]
+
+| Score | Max     | Rubric Item  | Description                                                                        |
+|-------|:-------:|:------------:|------------------------------------------------------------------------------------|
+|       | 10      | Documented   | In files like CONTRIBUTING.md, so that other devs can quickly start coding.        |
+|       | 10      | Functional   | Project runs in localhost and, if required, in production [on Heroku].             |
+|       | 5       | Git Logged   | Readable and clean with clear, complete, professional commit messages.             |
+|       | 10      | Linted       | It gets no unexpected errors from [StandardJS, eslint] linter.                     |
+|       | 10      | Reviewed/Fast| Passes [3.0 GPA] CodeClimate or peer review. Optimal O(n) complexity.              |
+|       | 20      | Tested       | All specs passing; at least [70%] test coverage as reported by CodeClimate.        |
+|       | 10      | Clearly Named| Functions, variables, files, CSS classes and ids.                                  |
+|       | 10      | Abstracted   | Small, single-responsibility functions leveraged for encapsulation & reusability.  |
+|       | 5       | Structured   | Directory structure allows new developers to quickly find and add files.           |
+|       | 10      | Not Commented| Unless truly necessary. No dead code, console.logs, fits/xits.                     |
+|       | ??      | UX Designed  | If a web app with actual users: design principles followed, good page load speed.  |
+|       |<b>100</b>|              | <b>TOTALS</b>                                                                     |
